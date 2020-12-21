@@ -1,4 +1,4 @@
-# Stop Slouching - A chrome extension
+# Stop Slouching
 **A simple but effective chrome extension that reminds you to: Stop Slouching**
 
 Currently working on:
