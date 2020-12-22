@@ -1,7 +1,7 @@
 # Stop Slouching
 **A simple but effective chrome extension that reminds you to: Stop Slouching**
 
-Currently working on:
+Currently working on (Version_1):
 - Populating and creating the extension popup so that it can take an input and create periodic alarms
 - Using https://developer.chrome.com/docs/extensions/reference/alarms/
 
