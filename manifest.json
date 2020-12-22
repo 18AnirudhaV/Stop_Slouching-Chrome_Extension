@@ -1,0 +1,17 @@
+{
+  "name": "Stop Slouching!",
+  "description": "Stop Slouching! A simple extension that reminds you to stop slouching and to fix your posture",
+  "version": "0.1",
+  "manifest_version": 2,
+  "permissions": ["alarms", "notifications", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "browser_action": {
+    "default_icon": "icons8-slouch-100.png",
+    "default_title": "Stop Slouching",
+    "default_popup": "popup.html"
+  }
+}
